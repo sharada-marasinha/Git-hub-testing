@@ -1,32 +1,35 @@
-// 🎲 Welcome to the Arithmetic Expressions Module! Let's do some math magic! 🎩✨
+// 🎲 Welcome to the Arithmetic Expressions Module! Get ready for some math magic! 🎩✨
 
-// 🍎 An apple plus an apple equals... an applesauce? 🍏🥄
-let apples = 2 + 2; // Result: 4
+// 🍎 Addition: Let's add some apples!
+let apples = 5 + 3; // Result: 8
 
-// ☕️ Adding coffee cups because why not? ☕️☕️
-let coffeeCups = 3 + 2; // Result: 5
+// ☕️ Subtraction: How many coffee cups are left?
+let coffeeCups = 10 - 3; // Result: 7
 
-// 🌈 Multiplying rainbows! Each color times 3. 🌈🌈🌈
+// 🌈 Multiplication: Multiply the colors of the rainbow!
 let rainbowColors = 7 * 3; // Result: 21
 
-// 🎲 Rolling a dice and adding a bonus! 🎲+1️⃣
-let diceRoll = 4 + 1; // Result: 5
-
-// 🚀 Exponential fun - launching to the power of 2! 🚀²
-let exponentialPower = 2 ** 2; // Result: 4
-
-// 🤔 Dividing pizza slices among friends! 🍕👭
+// 🎲 Division: Divide pizza slices among friends!
 let pizzaSlices = 8 / 2; // Result: 4
 
-// 🚇 Subway sandwich math - stacking layers! 🥖🥓🧀🥗
-let subwayLayers = 3 + 2 + 1; // Result: 6
+// 🚀 Exponential: Launch to the power of 2!
+let exponentialPower = 2 ** 3; // Result: 8
 
-// 🌐 Modulus party - finding the remainder of a division! 🎉🎊
-let modulusResult = 15 % 4; // Result: 3
-
-// 🤯 Complex expressions - order of operations challenge! 🧠
+// 🤯 Complex Expression: Order of operations challenge!
 let complexExpression = 2 + 3 * 4 - (8 / 2); // Result: 14
 
-// 💡 Bonus tip: Parentheses are your math superpower! 💪
+// 💫 Modulus: Find the remainder of a division!
+let modulusResult = 15 % 4; // Result: 3
+
+// 🎯 Displaying Results: Let's see the magic!
+console.log("Total apples:", apples);
+console.log("Remaining coffee cups:", coffeeCups);
+console.log("Colors in the rainbow:", rainbowColors);
+console.log("Pizza slices per person:", pizzaSlices);
+console.log("Exponential power:", exponentialPower);
+console.log("Complex expression result:", complexExpression);
+console.log("Modulus result:", modulusResult);
+
+// 💡 Bonus Tip: Use parentheses for complex expressions!
 
 // 🌟 Congratulations! You've mastered the Arithmetic Expressions Module! 🌟
