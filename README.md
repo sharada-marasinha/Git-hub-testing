@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome, aspiring JavaScript developers! This repository is your playground to master the art of JavaScript programming. Whether you're a beginner or looking to sharpen your skills, we've got you covered with a wide range of topics and playful exercises.
+Welcome, aspiring JavaScript developers! This repository is your playground to master the art of JavaScript programming. Whether you're a beginner or looking to sharpen your skills, i'm got you covered with a wide range of topics and playful exercises.
 
 ## Topics Covered
 
