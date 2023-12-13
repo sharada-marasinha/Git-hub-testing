@@ -1,45 +1,48 @@
-// 🚀 Welcome to the Variables Module! 🚀
+// 🚀 Welcome to the Variables Module! Let's dive into the world of variables! 🚀
 
-// Let's declare some variables:
+// 🍎 Variable Declaration: Let's declare some fruits!
+let apple = "red";
+let banana = "yellow";
+let orange = "orange";
 
-// 🍎 An apple a day keeps the errors away! 🍏
-let fruit = "apple";
+// 🌈 Variable Types: Different types for different purposes!
+let age = 25; // Numeric variable
+let isStudent = true; // Boolean variable
+let fullName = "John Doe"; // String variable
 
-// ☕️ Time for a coffee break! ☕️
-let beverage = "coffee";
+// 🔄 Variable Reassignment: Changing values on the fly!
+age = 26;
+isStudent = false;
+fullName = "Jane Doe";
 
-// 🎲 Roll the dice! 🎲
-let diceNumber = 6;
+// 🤔 Variable Naming: Choose meaningful names!
+let numberOfBooks = 10;
+let isLightOn = true;
+let userName = "CodeMaster";
 
-// 🌈 Colors of the rainbow! 🌈
-let color = "blue";
+// ⛔ Const Keyword: Some things never change!
+const gravity = 9.8; // Gravity on Earth, a constant value
 
-// Now, let's do some variable gymnastics:
+// 🚀 Math with Variables: Let's do some calculations!
+let height = 180;
+let width = 80;
+let area = height * width;
 
-// 🔄 Reassigning variables is like changing outfits! 🧥
-fruit = "banana";
+// 🎯 Displaying Results: Let's see the results!
+console.log("Area of a rectangle:", area);
 
-// 🤖 Variables can be as dynamic as a robot dance! 🕺
-let dynamicVariable = 42;
-dynamicVariable = "I can be a string too!";
+// 💡 Dynamic Typing: Variables can change types!
+let dynamicVariable = "I am a string!";
+dynamicVariable = 42; // Now, I'm a number!
 
-// 💫 Let's mix and match data types! 🍹
-let mixedVariable = "hello" + "world";
-mixedVariable = 42 + " is the answer";
-
-// 🚨 Watch out for the tricky typeof operator! 🕵️‍♂️
-let mysteriousVariable = true;
-console.log(typeof mysteriousVariable); // Spoiler alert: It's a boolean!
-
-// 🌍 Variables can travel across functions! 🚢
-function travelFunction() {
-  let localVariable = "I'm local!";
+// 📚 Variable Scope: Where am I visible?
+function myFunction() {
+  let localVariable = "I am local!";
   console.log(localVariable);
 }
 
-// 🧩 Commenting out variables is like hiding them in a puzzle! 🧩
-// let hiddenVariable = "You can't see me!";
+// 🧩 Hoisting: Variables are lifted to the top!
+console.log(hoistedVariable); // undefined
+var hoistedVariable = "I am hoisted!";
 
-// 🎉 Hooray! You've mastered the Variables Module! 🎉
-
-//@sharada-marasinha
+// 🎉 Congratulations! You've mastered the Variables Module! 🎉
