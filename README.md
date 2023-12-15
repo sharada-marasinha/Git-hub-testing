@@ -18,10 +18,10 @@ Get ready for interactive fun! Ask the user their name, favorite pizza topping, 
 ### 🚩. Type Conversion 💱
 Convert data types like a pro! Unleash the power of type conversion to transform strings, numbers, and more.
 
-### Const ⛔
+### 🚩. Const ⛔
 Discover the const keyword and understand why some variables are as stubborn as they come!
 
-### Math 🔣
+### 🚩. Math 🔣
 Explore the Math object for advanced mathematical operations. It's not just basic arithmetic; it's mathematics on steroids!
 
 ### Hypotenuse Calc Practice Program 📐
