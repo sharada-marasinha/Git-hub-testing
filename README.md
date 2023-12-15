@@ -27,7 +27,7 @@ Explore the Math object for advanced mathematical operations. It's not just basi
 ### 🚩. Hypotenuse Calc Practice Program 📐
 Put your math skills to the test with a practical program - calculate the hypotenuse like a Pythagorean pro!
 
-### Counter Program #️⃣
+### 🚩. Counter Program #️⃣
 Counting made fun! Learn to create a counter program that will have you counting from 1 to infinity and beyond.
 
 ### Random Number Generator 🎲
