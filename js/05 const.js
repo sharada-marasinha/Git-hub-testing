@@ -33,23 +33,17 @@ console.log(`The object fell ${distanceFallen} meters under gravity in ${time} s
 const weekdays = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"];
 const weekendDays = ["Saturday", "Sunday"];
 
-// 💡 Arrays declared with const can still be modified (elements added or removed).
 weekdays.push("ExtraDay");
 
-// 🚀 Displaying Updated Array: Let's see the modified weekdays array!
 console.log("Updated Weekdays:", weekdays);
 
-// 🎯 Exercise 4: Constants in Objects
 const car = {
   brand: "Tesla",
   model: "Model S",
   year: 2022,
 };
 
-// 💡 Properties of objects declared with const can still be modified.
 car.year = 2023;
 
-// 🚀 Displaying Updated Object: Let's see the modified car object!
 console.log("Updated Car:", car);
 
-// 🌟 Congratulations! You've completed the Const Keyword Exercise Module! 🌟
