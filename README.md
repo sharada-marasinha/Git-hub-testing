@@ -9,7 +9,7 @@ Welcome, aspiring JavaScript developers! This repository is your playground to m
 ### 🚩. Variables ❎
 Learn the basics of variable declaration and assignments. From apples to coffee cups, we've got the quirkiest examples for you!
 
-### Arithmetic Expressions 🧮
+### 🚩. Arithmetic Expressions 🧮
 Dive into the world of math magic! Calculate pizza slices, roll dice, and even multiply rainbows. Because who said math can't be fun?
 
 ### 🚩. User Input 🧮
@@ -24,7 +24,7 @@ Discover the const keyword and understand why some variables are as stubborn as 
 ### 🚩. Math 🔣
 Explore the Math object for advanced mathematical operations. It's not just basic arithmetic; it's mathematics on steroids!
 
-### Hypotenuse Calc Practice Program 📐
+### 🚩. Hypotenuse Calc Practice Program 📐
 Put your math skills to the test with a practical program - calculate the hypotenuse like a Pythagorean pro!
 
 ### Counter Program #️⃣
