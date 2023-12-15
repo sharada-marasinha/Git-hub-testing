@@ -6,16 +6,16 @@ Welcome, aspiring JavaScript developers! This repository is your playground to m
 
 ## Topics Covered
 
-### Variables ❎
+### 🚩. Variables ❎
 Learn the basics of variable declaration and assignments. From apples to coffee cups, we've got the quirkiest examples for you!
 
 ### Arithmetic Expressions 🧮
 Dive into the world of math magic! Calculate pizza slices, roll dice, and even multiply rainbows. Because who said math can't be fun?
 
-### User Input 🧮
+### 🚩. User Input 🧮
 Get ready for interactive fun! Ask the user their name, favorite pizza topping, and lucky number. It's time to engage in a friendly chat with your code!
 
-### Type Conversion 💱
+### 🚩. Type Conversion 💱
 Convert data types like a pro! Unleash the power of type conversion to transform strings, numbers, and more.
 
 ### Const ⛔
