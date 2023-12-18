@@ -30,7 +30,7 @@ Put your math skills to the test with a practical program - calculate the hypote
 ### 🚩. Counter Program #️⃣
 Counting made fun! Learn to create a counter program that will have you counting from 1 to infinity and beyond.
 
-### Random Number Generator 🎲
+### 🚩. Random Number Generator 🎲
 Unleash randomness! Build a random number generator and let the dice decide your fate.
 
 ### Useful String Methods 🧵
