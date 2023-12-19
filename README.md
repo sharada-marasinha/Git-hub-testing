@@ -281,7 +281,7 @@ You're now equipped with the tools to embark on an exciting journey into the wor
 
 ## Credits
 
-This JavaScript learning repository is brought to you by [Sharada Marasinha](https://github.com/sharada26). Thank you for your dedication and contribution to the learning community!
+This JavaScript learning repository is brought to you by [Sharada Marasinha](https://github.com/sharada-marasinha). Thank you for your dedication and contribution to the learning community!
 
 ## Resources
 
