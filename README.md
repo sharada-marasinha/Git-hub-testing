@@ -36,7 +36,7 @@ Unleash randomness! Build a random number generator and let the dice decide your
 ### 🚩. Useful String Methods 🧵
 String manipulation made easy! Learn essential string methods to weave, cut, and join your text.
 
-### String Slicing ✂️
+### 🚩. String Slicing ✂️
 Slice and dice your strings! Master the art of string slicing and get the substrings you need.
 
 ### Method Chaining ⛓️
