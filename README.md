@@ -33,7 +33,7 @@ Counting made fun! Learn to create a counter program that will have you counting
 ### 🚩. Random Number Generator 🎲
 Unleash randomness! Build a random number generator and let the dice decide your fate.
 
-### Useful String Methods 🧵
+### 🚩. Useful String Methods 🧵
 String manipulation made easy! Learn essential string methods to weave, cut, and join your text.
 
 ### String Slicing ✂️
@@ -281,7 +281,7 @@ You're now equipped with the tools to embark on an exciting journey into the wor
 
 ## Credits
 
-This JavaScript learning repository is brought to you by [Sharada Marasinha](https://github.com/sharada26). Thank you for your dedication and contribution to the learning community!
+This JavaScript learning repository is brought to you by [Sharada Marasinha](https://github.com/sharada-marasinha). Thank you for your dedication and contribution to the learning community!
 
 ## Resources
 
