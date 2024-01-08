@@ -48,7 +48,7 @@ Make decisions with if statements! Learn how to conditionally execute code block
 ### 🚩. Checked Property ✔️
 Check, check, and check again! Explore the checked property for checkboxes in the wonderful world of HTML forms.
 
-### Switches 🔀
+### 🚩. Switches 🔀
 Switch things up! Master the switch statement and create efficient, multi-branching code.
 
 ### AND OR Logical Operators && || 
