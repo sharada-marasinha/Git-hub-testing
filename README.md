@@ -45,7 +45,7 @@ Link it up! Dive into method chaining and create powerful sequences of actions w
 ### 🚩. If Statements ❔
 Make decisions with if statements! Learn how to conditionally execute code blocks and navigate the logic maze.
 
-### Checked Property ✔️
+### 🚩. Checked Property ✔️
 Check, check, and check again! Explore the checked property for checkboxes in the wonderful world of HTML forms.
 
 ### Switches 🔀
