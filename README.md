@@ -42,7 +42,7 @@ Slice and dice your strings! Master the art of string slicing and get the substr
 ### 🚩. Method Chaining ⛓️
 Link it up! Dive into method chaining and create powerful sequences of actions with your code.
 
-### If Statements ❔
+### 🚩. If Statements ❔
 Make decisions with if statements! Learn how to conditionally execute code blocks and navigate the logic maze.
 
 ### Checked Property ✔️
