@@ -39,7 +39,7 @@ String manipulation made easy! Learn essential string methods to weave, cut, and
 ### 🚩. String Slicing ✂️
 Slice and dice your strings! Master the art of string slicing and get the substrings you need.
 
-### Method Chaining ⛓️
+### 🚩. Method Chaining ⛓️
 Link it up! Dive into method chaining and create powerful sequences of actions with your code.
 
 ### If Statements ❔
